@@ -1,2 +1,3 @@
 # growFin-Dashboard
-Created with CodeSandbox
+
+Dashboard to manage widgets.
